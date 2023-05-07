@@ -14,7 +14,7 @@
 </details>
 
  <!-- ADD INFROMATION -->
- <detail>
+ <details>
   <summary>🤝 <b>To connect with me</b></summary>
   <p align = "center">
 
