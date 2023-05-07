@@ -1,4 +1,4 @@
-https://cardivo.vercel.app/api?name=I'm Marcelino Hans&description=Junior Programmer, Newbie Gamer&image=https://github.com/MarcelinoHansSetiaBudi/MarcelinoHansSetiaBudi/blob/main/IMG_7117.JPG?raw=true&backgroundColor=#ecf0f1&pattern=topography&colorPattern=#eaeaea
+![](https://cardivo.vercel.app/api?name=I'm Marcelino Hans&description=Junior Programmer, Newbie Gamer&image=https://github.com/MarcelinoHansSetiaBudi/MarcelinoHansSetiaBudi/blob/main/IMG_7117.JPG?raw=true&backgroundColor=#ecf0f1&pattern=topography&colorPattern=#eaeaea)
 
 <details>
   <!-- ADD INFROMATION -->
