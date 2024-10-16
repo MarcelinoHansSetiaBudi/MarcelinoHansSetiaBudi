@@ -1,5 +1,6 @@
 ![](https://cardivo.vercel.app/api?name=I%27m%20Marcelino%20Hans&description=Junior%20Backend%20Developer.&image=https://avatars.githubusercontent.com/u/100271617?v=4&backgroundColor=%23ecf0f1)
 <details>
+  Exploring and Learning about front end, and deepening skills in Back End programming. 
 </details>
 <details>
   <!-- ADD INFROMATION -->
