@@ -1,7 +1,12 @@
 ![](https://cardivo.vercel.app/api?name=I%27m%20Marcelino%20Hans&description=Junior%20Backend%20Developer.&image=https://avatars.githubusercontent.com/u/100271617?v=4&backgroundColor=%23ecf0f1)
 <details>
-  Exploring and Learning about front end, and deepening skills in Back End programming. 
+  Exploring and Learning about front end, and deepening skills in Back End programming.
+  <p>Always 'Running' with your OWN PACE 🏃‍♂️</p>
+  <p align="center">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxjdjgzbmU0NGVxcjB3cXVwdXExenl6NGFwbmtmMnQ2ZHhoNm45MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZUEVCzp1WVCNi/giphy.gif" width="300" alt="Always 'Running' on my Own Pace 🏃‍♂️">
+  </p>
 </details>
+
 <details>
   <!-- ADD INFROMATION -->
   <summary>🚀 <b>GitHub Stats :</b></summary>
