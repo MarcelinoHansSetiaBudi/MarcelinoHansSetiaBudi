@@ -29,5 +29,5 @@
 
   <!-- INSTAGRAM LOGO -->
   [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/little._.amigo/)
-  [<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https:https://www.linkedin.com/in/marcelinohanssetiabudi/)
+  [<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/marcelinohanssetiabudi/)
 </details>
